@@ -1,2 +1,1 @@
-console.log("thushara");
-console.log((110).toString(2));
+console.log(own2); //myfunction {a: 200}

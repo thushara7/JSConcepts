@@ -13,8 +13,10 @@ class Tree {
     this.head = new Node(value);
     this.size = 1;
   }
-
+  // function to get size
   size = () => this.size;
+
+  // function to insert values
   insert = value => {
     this.size = this.size + 1;
 
@@ -36,6 +38,8 @@ class Tree {
 
     searchTree(this.head.data);
   };
+
+  // function to traverse
 }
 const head = new Node(12);
 const myTree = new Tree(head);

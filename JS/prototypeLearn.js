@@ -8,7 +8,9 @@ Shape.prototype.move = function(x, y) {
   this.y += y;
 };
 
-function Rectangle() {}
+function Rectangle() {
+  // Shape.call(this,params)
+}
 //extended
 Rectangle.prototype = Object.create(Shape.prototype);
 
