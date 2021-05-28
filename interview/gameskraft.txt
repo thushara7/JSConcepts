@@ -1,0 +1,18 @@
+1.) css
+one sqr of 200px
+second sqr inside first (100px)
+align second sqr in the middle of the first sqr
+
+2.) JS
+make a digital timer in the console
+
+3.) JS
+given the obj
+var a = {
+name: 'xyz',
+address: {
+city: 'abc'
+}
+};
+
+I want to assign this obj to a new obj without the risk of mutation.

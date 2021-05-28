@@ -1,3 +1,15 @@
+// digital clock
+function updateTime() {
+  setInterval(() => {
+    let todayTime = new Date();
+    console.log(
+      `${todayTime.getHours()}:${todayTime.getMinutes()}:${todayTime.getSeconds()}`
+    );
+  }, 1000);
+}
+updateTime();
+
+// destructure
 var a = {
   name: "agadh",
   address: {
