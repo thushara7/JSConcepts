@@ -1,0 +1,19 @@
+31.05.21 |  5pm
+- how do you maintain stagging and prod
+- how to update prod
+- daily process.
+- localisation how to do it.
+- how does react works and compiles all the jsx into browser language
+- closure
+- datatypes
+- apply, call and bind
+- make your own filter by adding Array.filter.
+- given an unsorted array from 1 to n where only one missing numnber is there, find the missing numbers.
+- given an input int array, find the subarray (with consecutive elements) that has the max sum.
+
+
+thoughts:
+------------------------------------
+He came five minutes late.
+I should have prepped for more common algos
+He was nice. made me feel at ease.

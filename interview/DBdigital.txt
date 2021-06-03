@@ -1,0 +1,7 @@
+- write a recursive function to print list of files from a nested folder path
+- input = 'THUSHARA' output ='T1H2U1S1A2R1'
+- what is package .json and pakage-lock.json
+- what is cookies? why do we use it.
+- modules in js
+- code spliting
+
