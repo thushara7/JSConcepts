@@ -1,0 +1,10 @@
+To ensure react works on every browser the same.
+- react fibre
+- react router & lazy loading
+- synthetic events
+- redux
+- ref
+- predefined props
+- controlled components
+- conditionally add attr to react
+- error boundary

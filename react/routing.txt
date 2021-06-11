@@ -1,0 +1,3 @@
+how its diff
+- every route is not a new HTML file.
+- website is not refreshed on every route cz SPA.

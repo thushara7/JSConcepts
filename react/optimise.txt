@@ -1,0 +1,27 @@
+1.) use memo for caching the function output for the same dependency array
+
+2.) virtualising long list by showing only required data within the viewport.
+
+3.) pure component
+    React.PureComponent is a base component class that checks the fields of state and props
+     to know whether the component should be updated.
+
+4.) caching functions if the input is same
+
+5.) lazy loading
+
+The callback function of the React.lazy returns a Promise via the import() call. The Promise resolves if the
+ module loads successfully and rejects if there was an error in loading the module, due to network failure,
+  wrong path resolution, no file found, etc.
+When webpack walks through our code to compile and bundle, it creates a separate bundle when it hits
+ the React.lazy() and import(). Our app will become like this:
+
+ const MyComponent = React.lazy(()=>{import('./MyComponent.js')})
+function AppComponent() {
+    return <div><MyComponent /></div>
+}
+
+6.)React Memo
+
+7.) useCallback
+

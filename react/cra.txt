@@ -1,0 +1,11 @@
+it is a command line interface (CLI) that helps us to buid a react application
+by providing all the tools.
+All the tools are preconfigured so that developers can focus on code.
+- support for JSX, ES6
+- auto - prefixed CSS
+- fast interactive testing components
+- webpack for bundling all the files
+- webpack dev server for local env
+- polyfills
+- JEST for testing 
+- babel - a transpiller.

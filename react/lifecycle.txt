@@ -1,0 +1,17 @@
+#lifecycle methods
+
+##mounting
+constructor()
+static getDerivedStateFromProps()
+render()
+componentDidMount()
+
+##updating
+static getDerivedStateFromProps()
+shouldComponentUpdate()
+render()
+getSnapshotBeforeUpdate()
+componentDidUpdate()
+
+##unmount
+componentWillUnmount()

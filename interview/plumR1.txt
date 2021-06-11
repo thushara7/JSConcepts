@@ -1,0 +1,17 @@
+- splice and splice
+- hoisting
+- let and const vs var
+- closure and when do we use it?
+- console.log(3>2>1)
+
+
+--> Angular
+- pure and impure pipe
+- lazy and eager
+- Ivy
+- JIC and AOT
+- forRoot and forChild
+- ngContainer if we want to apply ngIF and ngFor ,in the same div
+- directives explain with types
+- why do we need structural directives
+
