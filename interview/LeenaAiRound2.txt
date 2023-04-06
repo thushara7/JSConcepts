@@ -1,0 +1,6 @@
+q1.) doubts the products
+q2.) my projects
+q3.) have i worked with Redux
+q4.) how do i debug an app --> react dev toools
+q5.) My website is slow. how will i proceed with it like steps i will take to understand what is wrong.
+q6.) intial load is slow. how to slow it down.

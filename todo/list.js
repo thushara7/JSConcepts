@@ -7,3 +7,6 @@
 // How to make a function truly async
 
 // how to make
+
+//router
+//https://www.youtube.com/watch?v=Law7wfdg_ls&t=0s

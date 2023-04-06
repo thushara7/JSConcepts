@@ -1,4 +1,4 @@
-var mergeTwoLists = function(l1, l2) {
+var mergeTwoLists = function (l1, l2) {
   let output = [];
   let p1 = 0;
   let p2 = 0;
