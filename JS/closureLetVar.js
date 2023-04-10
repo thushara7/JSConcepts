@@ -17,4 +17,4 @@ for(let i=0;i<3;i++){
 
 
 // for let its 0,1,2 or for IIFE
-// cz let it black scoped, so a new let is created for every iteration of for loop. and each log function's heap memory stores a new value of the let.
+// cz let it block scoped, so a new let is created for every iteration of for loop. and each log function's heap memory stores a new value of the let.
