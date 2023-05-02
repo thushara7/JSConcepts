@@ -27,4 +27,4 @@ function commonNo(arr1, arr2) {
   return common;
 }
 
-console.log(commonNo([1, 3, 6, 9, 4], [5, 8, 6, 3, 9, 7]));
+console.log(commonNo([1, 3, 6, 9, 4], [1, 8, 6, 3, 9, 7]));

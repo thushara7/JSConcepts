@@ -1,3 +1,4 @@
+// 10th April
 //Q1
 //make a custom method on a obj to get the next day.
 var myDate = new Date();
@@ -24,3 +25,6 @@ const mul = (x) => {
 };
 
 // for n objs
+
+//my feeling
+// I wanted to clear this round but somehow i feel disappointed.
